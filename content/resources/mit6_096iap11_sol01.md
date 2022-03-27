@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c548d6e2-98ff-ab1b-84c8-87ec03ab717f
 resourcetype: Document
 title: MIT6_096IAP11_sol01.pdf
 uid: 4700c091-d8a9-c50c-f8b2-c39bd8d42717

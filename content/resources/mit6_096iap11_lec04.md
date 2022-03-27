@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 390c1713-1f0d-dd01-950d-df3b2e546b5a
 resourcetype: Document
 title: MIT6_096IAP11_lec04.pdf
 uid: 33183276-1215-4919-0ef4-f8017b06b1b6
