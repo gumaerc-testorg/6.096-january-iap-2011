@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: c548d6e2-98ff-ab1b-84c8-87ec03ab717f
 ---
@@ -27,10 +28,10 @@ LECTURES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn01))
+Problem set 1 ({{< resource_link 213177bc-033f-42d3-35e2-7bf253448912 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_096iap11_sol01))
+({{< resource_link 4700c091-d8a9-c50c-f8b2-c39bd8d42717 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 1-2
@@ -39,10 +40,10 @@ Problem set 1 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn01))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn02))
+Problem set 2 ({{< resource_link 797ebff4-19fa-2cc3-a10a-f2c5f19be961 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_096iap11_sol02))
+({{< resource_link 274f7094-b701-8ebb-378f-8b285734a472 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 3-5
@@ -51,10 +52,10 @@ Problem set 2 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn02))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn03))
+Problem set 3 ({{< resource_link c335118f-84da-6022-9ca2-a206db2d3a6f "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_096iap11_sol03))
+({{< resource_link 67df390e-a174-0f5a-6c1c-87552f70829e "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 6-8
@@ -63,10 +64,10 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn03))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn04))
+Problem set 4 ({{< resource_link 5706356f-2987-c55d-0495-cf622598cf02 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_096iap11_sol04))
+({{< resource_link 1263e102-7b75-471a-7a34-93b3abdfda59 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 9-10
@@ -75,7 +76,7 @@ Problem set 4 ([PDF]({{< baseurl >}}/resources/mit6_096iap11_assn04))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-Final project ([PDF]({{< baseurl >}}/resources/mit6_096iap11_project))
+Final project ({{< resource_link 70714554-292d-0889-f63b-7d21be39d579 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
