@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to object oriented programming. '
-file: /media/courses/6-096-introduction-to-c-january-iap-2011/270def7b1f68535b7c3846c606b220eb_MIT6_096IAP11_lec07.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/270def7b1f68535b7c3846c606b220eb_MIT6_096IAP11_lec07.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: MIT6_096IAP11_lec07.pdf
 uid: 270def7b-1f68-535b-7c38-46c606b220eb
 ---
+This resource contains information related to object oriented programming. 
+
