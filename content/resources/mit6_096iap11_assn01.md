@@ -6,6 +6,7 @@ file: /courses/6-096-introduction-to-c-january-iap-2011/213177bc033f42d335e27bf2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_096IAP11_assn01.pdf
 uid: 213177bc-033f-42d3-35e2-7bf253448912
 ---
 This resource contains information related to constants, L - values and R - values.  
-

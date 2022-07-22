@@ -5,6 +5,7 @@ file: /courses/6-096-introduction-to-c-january-iap-2011/70714554292d0889f63b7d21
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_096IAP11_project.pdf
 uid: 70714554-292d-0889-f63b-7d21be39d579
 ---
 This resource contains project description. 
-

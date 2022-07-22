@@ -5,6 +5,7 @@ file: /courses/6-096-introduction-to-c-january-iap-2011/13882f48b16656374a40a0d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_096IAP11_lec09.pdf
 uid: 13882f48-b166-5637-4a40-a0d103a3b51c
 ---
 This resource contains information related to advanced topics I. 
-

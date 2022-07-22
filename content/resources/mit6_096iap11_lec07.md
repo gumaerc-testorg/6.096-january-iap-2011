@@ -5,6 +5,7 @@ file: /courses/6-096-introduction-to-c-january-iap-2011/270def7b1f68535b7c3846c6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_096IAP11_lec07.pdf
 uid: 270def7b-1f68-535b-7c38-46c606b220eb
 ---
 This resource contains information related to object oriented programming. 
-

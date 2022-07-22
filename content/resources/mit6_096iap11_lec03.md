@@ -5,6 +5,7 @@ file: /courses/6-096-introduction-to-c-january-iap-2011/1b954ce3fc96fd1168f8cd12
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_096IAP11_lec03.pdf
 uid: 1b954ce3-fc96-fd11-68f8-cd123c5748e4
 ---
 This resource contains information related to functions. 
-
