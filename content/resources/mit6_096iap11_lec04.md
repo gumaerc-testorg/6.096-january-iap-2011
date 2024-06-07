@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to arrays and strings. '
 file: /courses/6-096-introduction-to-c-january-iap-2011/33183276121549190ef4f8017b06b1b6_MIT6_096IAP11_lec04.pdf
+file_size: 108056
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
