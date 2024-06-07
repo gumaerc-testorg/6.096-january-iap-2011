@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to functions. '
 file: /courses/6-096-introduction-to-c-january-iap-2011/1b954ce3fc96fd1168f8cd123c5748e4_MIT6_096IAP11_lec03.pdf
+file_size: 470730
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
