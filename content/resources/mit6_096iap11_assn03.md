@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to arrays of class objects. '
-file: /courses/6-096-introduction-to-c-january-iap-2011/c335118f84da60229ca2a206db2d3a6f_MIT6_096IAP11_assn03.pdf
+file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/c335118f84da60229ca2a206db2d3a6f_MIT6_096IAP11_assn03.pdf
 file_size: 266117
 file_type: application/pdf
 learning_resource_types:
