@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains project description. '
-file: /courses/6-096-introduction-to-c-january-iap-2011/70714554292d0889f63b7d21be39d579_MIT6_096IAP11_project.pdf
+file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/70714554292d0889f63b7d21be39d579_MIT6_096IAP11_project.pdf
 file_size: 78374
 file_type: application/pdf
 learning_resource_types:
