@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to templates and header files. '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/5706356f2987c55d0495cf622598cf02_MIT6_096IAP11_assn04.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/5706356f2987c55d0495cf622598cf02_MIT6_096IAP11_assn04.pdf
 file_size: 158754
 file_type: application/pdf
 learning_resource_types:

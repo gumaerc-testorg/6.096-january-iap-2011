@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to advanced topics II. '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/3fb8a922fc4283863e29eeed55d7e664_MIT6_096IAP11_lec10.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/3fb8a922fc4283863e29eeed55d7e664_MIT6_096IAP11_lec10.pdf
 file_size: 223554
 file_type: application/pdf
 learning_resource_types:
