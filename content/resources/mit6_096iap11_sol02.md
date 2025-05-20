@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solutions of simple function. '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/274f7094b7018ebb378f8b285734a472_MIT6_096IAP11_sol02.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/274f7094b7018ebb378f8b285734a472_MIT6_096IAP11_sol02.pdf
 file_size: 172729
 file_type: application/pdf
 learning_resource_types:

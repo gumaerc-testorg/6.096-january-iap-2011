@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to classes. '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/a251375959c9498dec0d1204bc20bbd3_MIT6_096IAP11_lec06.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/a251375959c9498dec0d1204bc20bbd3_MIT6_096IAP11_lec06.pdf
 file_size: 515495
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solutions of multi-type. '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/1263e1027b75471a7a3493b3abdfda59_MIT6_096IAP11_sol04.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/1263e1027b75471a7a3493b3abdfda59_MIT6_096IAP11_sol04.pdf
 file_size: 105550
 file_type: application/pdf
 learning_resource_types:

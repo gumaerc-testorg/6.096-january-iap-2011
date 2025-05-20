@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to flow of control. '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/ccef8a1ec946adb5179925311e276a7b_MIT6_096IAP11_lec02.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/ccef8a1ec946adb5179925311e276a7b_MIT6_096IAP11_lec02.pdf
 file_size: 130647
 file_type: application/pdf
 learning_resource_types:
