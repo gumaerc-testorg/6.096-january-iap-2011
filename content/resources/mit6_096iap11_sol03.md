@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions of "catch that bug."
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/67df390ea1740f5a6c1c87552f70829e_MIT6_096IAP11_sol03.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/67df390ea1740f5a6c1c87552f70829e_MIT6_096IAP11_sol03.pdf
 file_size: 166046
 file_type: application/pdf
 learning_resource_types:

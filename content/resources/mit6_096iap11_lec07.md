@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to object oriented programming. '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/270def7b1f68535b7c3846c606b220eb_MIT6_096IAP11_lec07.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/270def7b1f68535b7c3846c606b220eb_MIT6_096IAP11_lec07.pdf
 file_size: 150556
 file_type: application/pdf
 learning_resource_types:

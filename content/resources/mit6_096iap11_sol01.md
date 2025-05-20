@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solutions of "hello world". '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/4700c091d8a9c50cf8b2c39bd8d42717_MIT6_096IAP11_sol01.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/4700c091d8a9c50cf8b2c39bd8d42717_MIT6_096IAP11_sol01.pdf
 file_size: 206740
 file_type: application/pdf
 learning_resource_types:

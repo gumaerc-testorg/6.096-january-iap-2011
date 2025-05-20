@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to constants, L - values
   and R - values.  '
-file: /ol-ocw-studio-app/courses/6-096-introduction-to-c-january-iap-2011/213177bc033f42d335e27bf253448912_MIT6_096IAP11_assn01.pdf
+file: /courses/6-096-introduction-to-c-january-iap-2011/213177bc033f42d335e27bf253448912_MIT6_096IAP11_assn01.pdf
 file_size: 248762
 file_type: application/pdf
 learning_resource_types:
